@@ -1,9 +1,6 @@
 # FlairGPT: Functional Layouts for Aesthetic Interior Realisations 
 
-This is the official Github Repository for *FlairGPT: Functional Layouts for Aesthetic Interior Realisations*
-
-Please open the file "index.html" in your browser. We recommend Google chrome. 
-flairgpt.github.io
+This is the code for *FlairGPT: Functional Layouts for Aesthetic Interior Realisations*
 
 # Requirements 
 Install the requirements
