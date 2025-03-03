@@ -9,6 +9,7 @@ Install the requirements
 cd Scene_Synthesis
 conda create -n flairgpt
 conda activate flairgpt
+conda install pip
 pip install -r requirements.txt
 ```
 
