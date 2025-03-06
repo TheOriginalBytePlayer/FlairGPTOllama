@@ -1,6 +1,5 @@
 from Setup_Functions import *
 from Class_Structures import *
-from Region import * 
 from Individual import * 
 from InterObject import * 
 from Global import * 
