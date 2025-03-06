@@ -21,12 +21,14 @@ pip install -r requirements.txt
 OPENAI_API_KEY = "YOUR_OPENAI_KEY"
 ```
 
-## Edit the Prompt
-Inside run_scene_synthesis, after the title "Set the Prompt", edit scene_descriptor to be your desired room description. 
-
 ## Run
-Run the notebook, if any cells fail to run, rerun. 
-Optimisation cells can also be rerun. 
+There are two options for running the code: 
+1. run_scene_synthesis.ipynb  
+2. scene_synthesis.py  
+
+We recommend using the notebook (run_scene_synthesis.ipynb) if you would like to see outputs of constraints/re-run cells that fail due to LLM errors (hallucinations etc), or to rerun optimisations that give suboptimal results. Otherwise, run the .py file. 
+
+For both options, please edit scene_descriptor to be your desired room description.  
 The output can be found in Scene_Synthesis/Result_txt. Please note that object retrieval is not implemented in this work. 
 
 ## Example Results
